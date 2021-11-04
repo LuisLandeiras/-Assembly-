@@ -1,4 +1,4 @@
-### Trabalhos em assembly
+### Trabalhos em Assembly
 
 ##  TP
 ````asm
